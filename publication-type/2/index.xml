@@ -5,12 +5,20 @@
     <link>https://nkrvavica.github.io/publication-type/2/</link>
       <atom:link href="https://nkrvavica.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://nkrvavica.github.io/media/nino_2020.jpg</url>
       <title>2</title>
       <link>https://nkrvavica.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Salt-Wedge Dynamics in Microtidal Neretva River Estuary</title>
+      <link>https://nkrvavica.github.io/publication/krvavica-2021-neretva/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0100</pubDate>
+      <guid>https://nkrvavica.github.io/publication/krvavica-2021-neretva/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation of Design Storms and Critical Rainfall Durations for Flood Prediction in Partially Urbanized Catchments</title>

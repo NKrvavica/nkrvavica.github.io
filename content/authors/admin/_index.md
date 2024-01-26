@@ -91,7 +91,7 @@ social:
 highlight_name: true
 ---
 
-I am an assistant professor at the [University of Rijeka](https://uniri.hr/en/home/) (UNIRI), [Faculty of Civil Engineering](https://gradri.uniri.hr/), in [Rijeka](https://visitrijeka.hr/), Croatia.
+I am Associate Professor at the [University of Rijeka](https://uniri.hr/en/home/) (UNIRI), [Faculty of Civil Engineering](https://gradri.uniri.hr/), in [Rijeka](https://visitrijeka.hr/), Croatia.
 
 My research interests lie in understanding and predicting water flows in natural and man-made environments, including flood analyses, estuarine dynamics and tidal dynamics in coastal areas.
 

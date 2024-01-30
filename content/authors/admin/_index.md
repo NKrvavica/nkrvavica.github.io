@@ -91,17 +91,17 @@ social:
 highlight_name: true
 ---
 
-I am Associate Professor at the [University of Rijeka](https://uniri.hr/en/home/) (UNIRI), [Faculty of Civil Engineering](https://gradri.uniri.hr/), in [Rijeka](https://visitrijeka.hr/), Croatia.
+I am an Associate Professor at the [University of Rijeka](https://uniri.hr/en/home/) (UNIRI), [Faculty of Civil Engineering](https://gradri.uniri.hr/), in [Rijeka](https://visitrijeka.hr/), Croatia.
 
 My research interests lie in understanding and predicting water flows in natural and man-made environments, including flood analyses, estuarine dynamics and tidal dynamics in coastal areas.
 
-I am currently focussing on understanding and predicting compound events, particularly those caused by a combination of high sea level, river discharge and extreme rainfall, which can cause flooding in coastal rivers. In 2023 I received funding for a four-year scientific project Compound Flooding in Coastal Croatia under Present and Future Climate ([4SEAFLOOD](https://4seaflood.uniri.hr/)). I am also interested in nature-based solutions to mitigate the negative consequences of such events. One of the main motivations for my research is to develop practical tools and reliable modelling approaches that can help solve real-world problems. 
+I am currently focusing on understanding and predicting compound events, particularly those caused by a combination of high sea level, river discharge and extreme rainfall that can lead to flooding in coastal rivers. In 2023, I received funding for a four-year scientific project Compound Flooding in Coastal Croatia under Present and Future Climate ([4SEAFLOOD](https://4seaflood.uniri.hr/)). I am also interested in nature-based solutions to mitigate the negative consequences of such events. One of the main motivations for my research is to develop practical tools and reliable modelling approaches that can help solve real-world problems.
 
 In 2023, I became head of the Laboratory for Hybrid Computational Methods at the Center for Artificial Intelligence and Cybersecurity ([AIRI](https://airi.uniri.hr/)), where we are developing new computational methods and approaches that combine physics-based models with machine learning to solve complex problems in the fields of hydrology, hydraulics and coastal engineering.
 
 In addition to my research and consulting work, I also teach several courses at UNIRI. My two favourite courses are Introduction to Coastal Engineering at the undergraduate level and Urban Water Systems at the graduate level.
 
-In the small gaps I have between teaching, writing, running simulations, programming and making pretty graphs, you can find me playing [disc golf](https://www.dgk-eagle.hr/) in the woods around Rijeka.
+In the small gaps I have between teaching, writing, running simulations, programming and creating pretty graphs, you can find me playing [disc golf](https://www.dgk-eagle.hr/) in the woods around Rijeka.
 
 If you are interested in my current work and news, please visit my [LinkedIn](https://www.linkedin.com/in/nino-krvavica-009988183/) page.
 
